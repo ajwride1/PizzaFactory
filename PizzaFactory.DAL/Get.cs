@@ -63,5 +63,12 @@ namespace PizzaFactory.DAL
 
             return _Config.RequiredPizzas;
         }
+
+        public static int MaxPotentialToppings()
+        {
+            _SetConfig();
+
+            return _Config.MaxPotentialToppings;
+        }
     }
 }

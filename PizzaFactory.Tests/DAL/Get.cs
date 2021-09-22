@@ -57,5 +57,15 @@ namespace PizzaFactory.Tests.DAL
 
             Assert.IsTrue(requiredPizzas != null);
         }
+
+        [TestMethod]
+        public void MaxPotentialToppings()
+        {
+            int? maxPotentialToppings = PizzaFactory.DAL.Get.MaxPotentialToppings();
+
+            Console.WriteLine(maxPotentialToppings);
+
+            Assert.IsTrue(maxPotentialToppings != null);
+        }
     }
 }
