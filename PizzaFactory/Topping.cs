@@ -2,9 +2,12 @@
 
 namespace PizzaFactory
 {
-    public class Topping
+    public class Topping : DAL.DTO.Topping
     {
-        public string Name { get; set; }
+        public Topping(string name)
+        {
+            Name = name;
+        }
 
         public double CookingTime()
         {

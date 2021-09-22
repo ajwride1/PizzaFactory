@@ -1,8 +1,10 @@
-﻿namespace PizzaFactory.Pizza
+﻿using System.Collections.Generic;
+
+namespace PizzaFactory.Pizza
 {
     public class StuffedCrust : Base
     {
-        public StuffedCrust() : base("Stuffed Crust") { }
+        public StuffedCrust(List<Topping> toppings) : base("Stuffed Crust", toppings) { }
 
         protected override void _SetCookingMultiplyer()
         {
