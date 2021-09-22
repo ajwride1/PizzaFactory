@@ -1,6 +1,6 @@
 ﻿using Extensions;
 
-namespace PizzaFactory
+namespace PizzaFactory.Pizza
 {
     public class Topping : DAL.DTO.Topping
     {
