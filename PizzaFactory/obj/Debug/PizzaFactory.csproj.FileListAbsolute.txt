@@ -1,0 +1,14 @@
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.exe.config
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.exe
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.pdb
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\Extensions.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.DAL.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\Extensions.pdb
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\PizzaFactory.DAL.pdb
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\obj\Debug\PizzaFactory.csprojAssemblyReference.cache
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\obj\Debug\PizzaFactory.csproj.CoreCompileInputs.cache
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\obj\Debug\PizzaFactory.csproj.CopyComplete
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\obj\Debug\PizzaFactory.exe
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory\obj\Debug\PizzaFactory.pdb

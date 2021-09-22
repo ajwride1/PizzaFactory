@@ -1,0 +1,9 @@
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\bin\Debug\PizzaFactory.DAL.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\bin\Debug\PizzaFactory.DAL.pdb
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\obj\Debug\PizzaFactory.DAL.csprojAssemblyReference.cache
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\obj\Debug\PizzaFactory.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\obj\Debug\PizzaFactory.DAL.csproj.CopyComplete
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\obj\Debug\PizzaFactory.DAL.dll
+C:\Users\ajwri\source\repos\PizzaFactory\PizzaFactory.DAL\obj\Debug\PizzaFactory.DAL.pdb

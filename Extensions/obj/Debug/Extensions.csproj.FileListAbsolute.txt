@@ -1,0 +1,6 @@
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\bin\Debug\Extensions.dll
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\bin\Debug\Extensions.pdb
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\obj\Debug\Extensions.dll
+C:\Users\ajwri\source\repos\PizzaFactory\Extensions\obj\Debug\Extensions.pdb
