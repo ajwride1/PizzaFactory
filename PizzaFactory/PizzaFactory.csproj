@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Pizza\Base.cs" />
     <Compile Include="Pizza\DeepPan.cs" />
+    <Compile Include="Pizza\Factory.cs" />
     <Compile Include="Pizza\ICookable.cs" />
     <Compile Include="Pizza\StuffedCrust.cs" />
     <Compile Include="Pizza\ThinAndCrispy.cs" />

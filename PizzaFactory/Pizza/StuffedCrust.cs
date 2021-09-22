@@ -4,7 +4,7 @@ namespace PizzaFactory.Pizza
 {
     public class StuffedCrust : Base
     {
-        public StuffedCrust(List<Topping> toppings) : base("Stuffed Crust", toppings) { }
+        public StuffedCrust(List<DAL.DTO.Topping> toppings) : base("Stuffed Crust", toppings) { }
 
         protected override void _SetCookingMultiplyer()
         {

@@ -15,11 +15,16 @@ namespace PizzaFactory.Pizza
 
         private bool _Disposed;
 
-        public Base(string name, List<Topping> toppings)
+        public Base(string name, List<DAL.DTO.Topping> toppings)
         {
             _Disposed = false;
             Name = name;
-            Toppings = toppings;
+            Toppings = new List<Topping>();
+
+            foreach (var topping in toppings)
+            {
+                Toppings.Add(new Topping(topping.Name));
+            }
         }
 
         protected abstract void _SetCookingMultiplyer();

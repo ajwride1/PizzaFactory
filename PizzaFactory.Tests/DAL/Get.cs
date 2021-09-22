@@ -47,5 +47,15 @@ namespace PizzaFactory.Tests.DAL
 
             Assert.IsTrue(toppings != null);
         }
+
+        [TestMethod]
+        public void RequiredPizzas()
+        {
+            int? requiredPizzas = PizzaFactory.DAL.Get.RequiredPizzas();
+
+            Console.WriteLine(requiredPizzas);
+
+            Assert.IsTrue(requiredPizzas != null);
+        }
     }
 }

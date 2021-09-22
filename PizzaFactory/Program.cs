@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using PizzaFactory.Pizza;
 
 namespace PizzaFactory
 {
@@ -8,13 +10,19 @@ namespace PizzaFactory
         {
             Console.WriteLine("Welcome to the pizza factory... give us a second, just getting a few things set up...");
 
-            // get a list of toppings from the config file
+            List<DAL.DTO.Topping> toppingDtos = DAL.Get.Toppings();
+            List<Base> pizzas = new List<Base>();
+            int requiredPizzas = DAL.Get.RequiredPizzas();
 
             Console.WriteLine("Let's start cooking some pizzas!!");
 
             Console.WriteLine(_LineBreak);
-            // while loop until the number of pizzas that are required have been cooked
-            // get a random pizza and cook it
+
+            while (pizzas.Count < requiredPizzas)
+            {
+                // while loop until the number of pizzas that are required have been cooked
+                // get a random pizza and cook it
+            }
 
             Console.WriteLine(_LineBreak);
 

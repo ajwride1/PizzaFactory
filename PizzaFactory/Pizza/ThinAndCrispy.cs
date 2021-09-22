@@ -4,7 +4,7 @@ namespace PizzaFactory.Pizza
 {
     public class ThinAndCrispy : Base
     {
-        public ThinAndCrispy(List<Topping> toppings):base("Thin and Crispy", toppings) { }
+        public ThinAndCrispy(List<DAL.DTO.Topping> toppings):base("Thin and Crispy", toppings) { }
 
         protected override void _SetCookingMultiplyer()
         {

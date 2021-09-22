@@ -56,5 +56,12 @@ namespace PizzaFactory.DAL
 
             return _Config.Toppings;
         }
+
+        public static int RequiredPizzas()
+        {
+            _SetConfig();
+
+            return _Config.RequiredPizzas;
+        }
     }
 }
