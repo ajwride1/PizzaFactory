@@ -22,7 +22,7 @@ namespace PizzaFactory.Tests
         [TestMethod]
         public void Cook()
         {
-            List<Topping> toppings = new List<Topping>{new Topping("Test")};
+            List<PizzaFactory.DAL.DTO.Topping> toppings = new List<PizzaFactory.DAL.DTO.Topping>{new Topping("Test")};
 
             Base pizza = new DeepPan(toppings);
 
