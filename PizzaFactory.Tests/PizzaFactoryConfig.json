@@ -1,0 +1,17 @@
+{
+    "BaseCookingTime":5000,
+    "CookingInterval":1000,
+    "RequiredPizzas":50,
+    "ToppingCookingTime":100,
+    "Toppings":[
+        {
+            "Name":"Pepperoni"
+        },
+        {
+            "Name":"Ham and Mushroom"
+        },
+        {
+            "Name":"Vegetable"
+        }
+    ]
+}

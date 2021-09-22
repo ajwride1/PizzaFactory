@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="PizzaFactoryConfig.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PizzaFactory.DAL\PizzaFactory.DAL.csproj">
